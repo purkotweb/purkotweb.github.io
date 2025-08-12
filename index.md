@@ -11,11 +11,7 @@
       background: #fafafa;
       color: #222;
     }
-    h1 {
-      font-size: 2em;
-      margin-bottom: 1em;
-    }
-    video {
+    img {
       max-width: 100%;
       height: auto;
       display: block;
@@ -25,9 +21,6 @@
   </style>
 </head>
 <body>
-  <h1>PURKOT</h1>
-  <video src="Purkot_mov.MOV" controls autoplay loop muted playsinline>
-    Your browser does not support the video tag.
-  </video>
+  <img src="Purkot_img.jpg" alt="Purkot Image">
 </body>
 </html>
